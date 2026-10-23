@@ -1,0 +1,77 @@
+LOCUS       Custom_Cassette         1058 bp ds-DNA     linear       22-OCT-2026
+DEFINITION  .
+FEATURES             Location/Qualifiers
+     promoter        1..200
+                     /label="Promoter"
+                     /ApEinfo_revcolor="#f8d3a9"
+                     /ApEinfo_fwdcolor="#f8d3a9"
+                     /note="SO:0000167 Promoter"
+     source          1..200
+                     /label="source"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+                     /mol_type="genomic DNA"
+     misc_feature    1..200
+                     /label="BBa_R0010"
+     source          201..212
+                     /label="source"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+                     /mol_type="genomic DNA"
+     RBS             201..212
+                     /label="Ribosome Entry Site"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+                     /note="SO:0000139 Ribosome Entry Site"
+     misc_feature    201..212
+                     /label="BBa_B0034"
+     misc_feature    213..215
+                     /label="Start"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+     CDS             213..929
+                     /label="GFP CDS (green-fluorescent protein)"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+     misc_feature    213..929
+                     /label="GFP insert sequence [26-742]"
+     misc_feature    405..413
+                     /label="GFP misc_feature"
+                     /ApEinfo_revcolor="#c7b0e3"
+                     /ApEinfo_fwdcolor="#c7b0e3"
+     misc_feature    927..929
+                     /label="Stop"
+                     /ApEinfo_revcolor="#f58a5e"
+                     /ApEinfo_fwdcolor="#f58a5e"
+     source          930..1058
+                     /label="source"
+                     /ApEinfo_revcolor="#b4abac"
+                     /ApEinfo_fwdcolor="#b4abac"
+                     /mol_type="genomic DNA"
+     terminator      930..1058
+                     /label="Terminator"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /note="SO:0000141 Terminator"
+     misc_feature    930..1058
+                     /label="BBa_B0015"
+ORIGIN
+        1 caatacgcaa accgcctctc cccgcgcgtt ggccgattca ttaatgcagc tggcacgaca
+       61 ggtttcccga ctggaaagcg ggcagtgagc gcaacgcaat taatgtgagt tagctcactc
+      121 attaggcacc ccaggcttta cactttatgc ttccggctcg tatgttgtgt ggaattgtga
+      181 gcggataaca atttcacaca aaagaggaga aaatgagtaa aggagaagaa cttttcactg
+      241 gagttgtccc aattcttgtt gaattagatg gtgatgttaa tgggcacaaa ttttctgtca
+      301 gtggagaggg tgaaggtgat gcaacatacg gaaaacttac ccttaaattt atttgcacta
+      361 ctggaaaact acctgttcca tggccaacac ttgtcactac tttctcttat ggtgttcaat
+      421 gcttttcaag atacccagat catatgaaac agcatgactt tttcaagagt gccatgcccg
+      481 aaggttatgt acaggaaaga actatatttt tcaaagatga cgggaactac aagacacgtg
+      541 ctgaagtcaa gtttgaaggt gatacccttg ttaatagaat cgagttaaaa ggtattgatt
+      601 ttaaagaaga tggaaacatt cttggacaca aattggaata caactataac tcacacaatg
+      661 tatacatcat ggcagacaaa caaaagaatg gaatcaaagt taacttcaaa attagacaca
+      721 acattgaaga tggaagcgtt caactagcag accattatca acaaaatact ccaattggcg
+      781 atggccctgt ccttttacca gacaaccatt acctgtccac acaatctgcc ctttcgaaag
+      841 atcccaacga aaagagagac cacatggtcc ttcttgagtt tgtaacagct gctgggatta
+      901 cacatggcat ggatgaacta tacaaataac caggcatcaa ataaaacgaa aggctcagtc
+      961 gaaagactgg gcctttcgtt ttatctgttg tttgtcggtg aacgctctct actagagtca
+     1021 cactggctca ccttcgggtg ggcctttctg cgtttata
+//

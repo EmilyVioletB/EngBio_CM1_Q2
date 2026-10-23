@@ -1,0 +1,5 @@
+id,name,sequence,length,melting_temperature,gc_content,homodimer_melting_temperature,homodimer_deltaG,hairpin_melting_temperature,hairpin_deltaG,pcr_source_id,binding_length,binding_melting_temperature,binding_gc_content,heterodimer_melting_temperature,heterodimer_deltaG
+5,FWDSEVA,tgggcctttctgcgtttatagcgcggccgcggcctaggcg,40,82.5,68,52,-17384,62.4,-2290,9,20,75.9,90,49.4,-14814
+6,REVSEVA,gagaggcggtttgcgtattggcggccgcgtcgtgactggg,40,81.5,68,41.1,-12255,56.2,-4300,9,20,71,80,49.4,-14814
+7,FWDGFP,cccagtcacgacgcggccgccaatacgcaaaccgcctctc,40,81.5,68,42.1,-12496,51.3,-1218,4,20,59.6,55,50.6,-15005
+8,REVGFP,cgcctaggccgcggccgcgctataaacgcagaaaggccca,40,82.5,68,50,-16206,62.7,-2356,4,20,57.2,45,50.6,-15005
